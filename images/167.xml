@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>167.jpg</filename>
+	<path>C:\Users\hp\Documents\alu\167.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2958</width>
+		<height>1484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>750</xmin>
+			<ymin>112</ymin>
+			<xmax>1641</xmax>
+			<ymax>1089</ymax>
+		</bndbox>
+	</object>
+</annotation>

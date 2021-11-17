@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>137.png</filename>
+	<path>C:\Users\hp\Documents\alu\137.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1086</width>
+		<height>880</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>27</ymin>
+			<xmax>838</xmax>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+</annotation>

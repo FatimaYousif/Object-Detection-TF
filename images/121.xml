@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>121.jpg</filename>
+	<path>C:\Users\hp\Documents\alu\121.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1800</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>210</ymin>
+			<xmax>1006</xmax>
+			<ymax>1262</ymax>
+		</bndbox>
+	</object>
+</annotation>

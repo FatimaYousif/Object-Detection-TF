@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>228.jpg</filename>
+	<path>C:\Object_detection\models-master\research\object_detection\images\228.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>8</ymin>
+			<xmax>178</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>
