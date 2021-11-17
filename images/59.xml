@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>59.jpg</filename>
+	<path>C:/Users/hp/Documents/images/59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>obama</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1035</xmin>
+			<ymin>266</ymin>
+			<xmax>1300</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+</annotation>

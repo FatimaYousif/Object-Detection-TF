@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>297.jpg</filename>
+	<path>C:\Object_detection\models-master\research\object_detection\images\297.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>722</width>
+		<height>406</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>9</ymin>
+			<xmax>526</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
